@@ -4,8 +4,8 @@
 
 0. Introduction
 1. Descente de gradient (gradient descent)
-2. k-moyennes (k-means)
-3. k-plus proches voisins (k-NN)
+2. k-plus proches voisins (k-NN)
+3. k-moyennes (k-means)
 4. Régressions linéaires (linear regression)
 5. Régression logistique (logistic regression)
 6. Arbres de décision (decision trees)
