@@ -8,16 +8,16 @@ Partie 1: Modèle ML
 
 Concevoir et entraîner un **modèle de machine learning** pour un problème d'**apprentissage supervisé** de type **régression** ou **classification**. Si vous désirez vous lancer dans un problème plus compliqué, par exemple d'**apprentissage par renforcement**, sentez-vous libre. 
 
-Le modèle devra être implémenté en `scikit-learn` (librairies utilisée en cours S4.04) et entraîné sur un dataset public (par exemple issu du site Kaggle) ou que vous auriez crée vous-même (ce qui demande plus de travail). Par la suite, le modèle sera utilisé pour obtenirr des prédictions à partir des données que vous aurez récupérées (scrapées) sur le web (cf. partie 2).
+Le modèle devra être implémenté en `scikit-learn` (librairies utilisée en cours S4.04) et entraîné sur un dataset public (par exemple issu du site Kaggle) ou un datatset que vous aurez crée vous-même (ce qui demande plus de travail). Par la suite, le modèle sera utilisé pour obtenir des prédictions à partir de données que vous aurez récupérées (scrapées) sur le web (cf. partie 2).
     
 https://scikit-learn.org/stable/<br>
 https://www.kaggle.com/
 
->**Exemple:** Créer un modèle qui prend comme inputs des textes à contenus financiers, et qui prédit leur sentiment. Ce modèle sera entraîné sur un dataset prévu à cet effet (cf. Kaggle, sentiment datasets):
+>**Exemple:** Créer un modèle qui prend comme inputs des textes à contenus financiers et qui prédit leur sentiment. Ce modèle sera entraîné sur un dataset prévu à cet effet (cf. Kaggle, sentiment datasets):
 
 https://www.kaggle.com/datasets?search=sentiment+analysis
 
-Pour cette partie, il vous demandé de fournir **un notebook jupyter et un fichier de data** contenant l'implémentation, l'entraînement et la sauvegarde de votre modèle ML.
+Pour cette partie, il vous demandé de fournir **un joli notebook jupyter et un fichier de data** contenant l'implémentation, l'entraînement et la sauvegarde de votre modèle ML.
 
 Partie 2: Web scraping
 ----------------------
