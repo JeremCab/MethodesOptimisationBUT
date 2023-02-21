@@ -1,5 +1,5 @@
-SAE S4: module "Machine Learning (ML)"
---------------------------------------
+SAE S4: Module de Machine Learning (ML)
+---------------------------------------
 
 Il vous est demandé d'incorporer un module de **Machine Learning (ML)** à votre application web. Ce projet comporte 3 parties décrites ci-dessous et illustrés par trois exemples:
 
@@ -16,8 +16,6 @@ Il vous est demandé d'incorporer un module de **Machine Learning (ML)** à votr
 
     Pour cette partie, il vous demandé de fournir **un notebook jupyter et un fichier de data** contenant l'implémentation, l'entraînement et la sauvegarde de votre modèle ML.
 
-<br>
-
 2. **Web scraping:** Créer un **script d'extraction de données (data)** qui va chercher des données qui vous intéressent sur un ou plusieurs sites web. Ces data seront ensuite fournies à votre modèle afin qu'il puisse en tirer des prédictions.
 
     Il y a des librairies Python pour cela (`Beautiful Soup`, `Scrapy`). Une fois extraites, il est recommandé de nettoyer et de mettre en forme les data de manière à ce qu'elles puissent être traitées par votre modèle (cf. partie 1).
@@ -29,8 +27,6 @@ Il vous est demandé d'incorporer un module de **Machine Learning (ML)** à votr
 
     Pour cette partie, il vous demandé de fournir un **notebook jupyter** ou un **fichier python** qui implémente l'acquisition de vos data.
 
-<br>
-
 3. **Déploiement du modèle:** Création et déploiement d'une **application web** (endpoint ou point de terminaison en ligne). Votre application devra être capable d'aller "scraper" des données (partie 2), de les passer à votre modèle, et retourner les prédictions associées (partie 1).
 
 	Il y a différentes méthodes pour cela que je vous laisse investiguer... Entre autre, vous pouvez utiliser `Flask` ou `Scikit.js`. Les librairies et les tutoriel ci-dessous vous donnent plus d'informations à ce sujet. N'hésitez pas à faire vos propres recherches.
@@ -41,4 +37,3 @@ Il vous est demandé d'incorporer un module de **Machine Learning (ML)** à votr
 	https://scikitjs.org/<br>
 
 	>**Exemple:** Créer une petite application qui, lorsqu'on clique sur un bouton, va chercher les dernières news financière sur le site du Financial Times, passe ces new à votre modèles de sentiment, récupère les prédictions associées, puis affiche ces news et leurs sentiments sur votre site web.
-	
