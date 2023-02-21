@@ -1,7 +1,7 @@
 SAE S4: Module de Machine Learning (ML)
 =======================================
 
-Il vous est demandé d'incorporer un module de **Machine Learning (ML)** à votre application web. Ce projet comporte 3 parties décrites ci-dessous et illustrés par trois exemples:
+Il vous est demandé d'incorporer un module de **Machine Learning (ML)** à votre application web. Ce projet comporte trois parties décrites ci-dessous et illustrés par trois exemples:
 
 Partie 1: Modèle ML
 -------------------
