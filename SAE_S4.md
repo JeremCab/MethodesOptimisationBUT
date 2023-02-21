@@ -1,10 +1,10 @@
 SAE S4: Module de Machine Learning (ML)
----------------------------------------
+=======================================
 
 Il vous est demandé d'incorporer un module de **Machine Learning (ML)** à votre application web. Ce projet comporte 3 parties décrites ci-dessous et illustrés par trois exemples:
 
 1. Modèle ML
-============
+------------
 
 Concevoir et entraîner un **modèle de machine learning** pour un problème d'**apprentissage supervisé** de type **régression** ou **classification**. Si vous désirez vous lancer dans un problème plus compliqué, par exemple d'**apprentissage par renforcement**, sentez-vous libre. 
 
@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets?search=sentiment+analysis
 Pour cette partie, il vous demandé de fournir **un notebook jupyter et un fichier de data** contenant l'implémentation, l'entraînement et la sauvegarde de votre modèle ML.
 
 2. Web scraping
-===============
+---------------
 
 4. Créer un **script d'extraction de données (data)** qui va chercher des données qui vous intéressent sur un ou plusieurs sites web. Ces data seront ensuite fournies à votre modèle afin qu'il puisse en tirer des prédictions.
 
@@ -34,7 +34,7 @@ https://scrapy.org/
 Pour cette partie, il vous demandé de fournir un **notebook jupyter** ou un **fichier python** qui implémente l'acquisition de vos data.
 
 3. Déploiement du modèle 
-======================== 
+------------------------
 
 Création et déploiement d'une **application web** (endpoint ou point de terminaison en ligne). Votre application devra être capable d'aller "scraper" des données (partie 2), de les passer à votre modèle, et retourner les prédictions associées (partie 1).
 
