@@ -22,7 +22,7 @@ Pour cette partie, il vous demandé de fournir **un notebook jupyter et un fichi
 Partie 2: Web scraping
 ----------------------
 
-4. Créer un **script d'extraction de données (data)** qui va chercher des données qui vous intéressent sur un ou plusieurs sites web. Ces data seront ensuite fournies à votre modèle afin qu'il puisse en tirer des prédictions.
+Créer un **script d'extraction de données (data)** qui va chercher des données qui vous intéressent sur un ou plusieurs sites web. Ces data seront ensuite fournies à votre modèle afin qu'il puisse en tirer des prédictions.
 
 Il y a des librairies Python pour cela (`Beautiful Soup`, `Scrapy`). Une fois extraites, il est recommandé de nettoyer et de mettre en forme les data de manière à ce qu'elles puissent être traitées par votre modèle (cf. partie 1).
 
