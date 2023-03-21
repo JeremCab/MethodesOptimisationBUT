@@ -1,7 +1,11 @@
 SAE S4: Module de Machine Learning (ML)
 =======================================
 
-Il vous est demandé d'incorporer un module de **Machine Learning (ML)** à votre application web. Ce projet comporte trois parties décrites ci-dessous et illustrés par trois exemples:
+Il vous est demandé d'incorporer un module de **Machine Learning (ML)** à votre application web. Ce projet comporte trois parties décrites ci-dessous.
+
+- La SAÉ est à rendre pour le **17 avril 2023**.
+- En plus de votre **code**, prière de joindre un **rapport pdf** ou un **fichier md** qui décrit votre approoche du problème, démarche, modèle et solution s'intération.
+- Prière de déposer vos rrendus sur **e-Campus**.
 
 Partie 1: Modèle ML
 -------------------
