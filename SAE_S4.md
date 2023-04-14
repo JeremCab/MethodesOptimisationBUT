@@ -5,7 +5,8 @@ Il vous est demandé d'incorporer un module de **Machine Learning (ML)** à votr
 
 - La SAÉ est à rendre pour le **17 avril 2023**.
 - En plus de votre **code**, prière de joindre un **rapport pdf** ou un **fichier md** qui décrit votre approoche du problème, démarche, modèle et solution s'intération.
-- Prière de déposer vos rrendus sur **e-Campus**.
+- Prière de m'envoyer vos rendus à mon adresse mail: `jeremie.cabessa[at]uvsq-fr`
+
 
 Partie 1: Modèle ML
 -------------------
