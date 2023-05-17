@@ -3,9 +3,9 @@ SAE S4: Module de Machine Learning (ML)
 
 Il vous est demandé d'incorporer un module de **Machine Learning (ML)** à votre application web. Ce projet comporte trois parties décrites ci-dessous.
 
-- La SAÉ est à rendre pour le **17 avril 2023**.
+- La SAÉ est à rendre pour le **[à définir]**.
 - En plus de votre **code**, prière de joindre un **rapport pdf** ou un **fichier md** qui décrit votre approoche du problème, démarche, modèle et solution s'intération.
-- Prière de m'envoyer vos rendus à mon adresse mail: `jeremie.cabessa[at]uvsq-fr`
+- Prière de m'envoyer vos rendus à mon adresse mail: `jeremie.cabessa[at]uvsq.fr`
 
 
 Partie 1: Modèle ML
