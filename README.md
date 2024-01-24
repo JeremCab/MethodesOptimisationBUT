@@ -3,13 +3,11 @@
 ## Table des matières
 
 0. Introduction
-1. Descente de gradient (gradient descent)
-2. k-plus proches voisins (k-nearest neighbors)
-3. k-moyennes (k-means)
-4. Régressions linéaires (linear regression)
-5. Régression logistique (logistic regression)
-6. Arbres de décision (decision trees)
-7. Forêt d'arbres décisionnels (random forests)
+1. Régressions linéaires (linear regression)
+2. Régression logistique (logistic regression)
+3. k-plus proches voisins (k-nearest neighbors)
+4. k-moyennes (k-means)
+5. Descente de gradient (gradient descent)
 
 ## Cours
 
