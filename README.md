@@ -6,8 +6,7 @@
 1. k-plus proches voisins (k-nearest neighbors)
 2. Régressions linéaires (linear regression)
 3. Régression logistique (logistic regression)
-4. k-moyennes (k-means)
-5. Descente de gradient (gradient descent)
+4. Descente de gradient (gradient descent)
 
 ## Cours
 
